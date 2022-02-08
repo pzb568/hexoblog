@@ -2068,10 +2068,10 @@ hexo-symbols-count-time@^0.7.1:
   dependencies:
     hexo-util "1.9.0"
 
-hexo-theme-next@^8.8.0:
-  version "8.8.0"
-  resolved "https://registry.yarnpkg.com/hexo-theme-next/-/hexo-theme-next-8.8.0.tgz#8f8591803cd89567a4ff2a70785f967d53ce50b2"
-  integrity sha512-Qypz33aaoHZ+BuuLJmdW7ptn6cvrwOkLOLnZ63KcJ36BhUOnqv6oAYKMr64eSL5PurqQ5HsjOUn3CxXRJM45aw==
+hexo-theme-next@^8.10.0:
+  version "8.10.0"
+  resolved "https://registry.yarnpkg.com/hexo-theme-next/-/hexo-theme-next-8.10.0.tgz#9183f117397e49b50f2b3c1fe6a57f89c0cb3534"
+  integrity sha512-b7Jlzm1dlx3ED+SEfMiy9l8EKHRj5/C9/ZA+ng1NvwWTVHMkC+Mj+k8za/Ys4kmcNZo8Xj1OkHgjYNx4X9dvNA==
 
 hexo-util@1.9.0:
   version "1.9.0"
